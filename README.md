@@ -43,7 +43,7 @@
 
 ---
 
-### 🏗️ Featured Projects
+<!--### 🏗️ Featured Projects
 
 **[URL Shortener Service](https://github.com/yourusername/url-shortener)**
 Production-style URL shortener built with Java 21 and Spring Boot 3, using Base62+XOR encoding for short codes, PostgreSQL (via Neon) for storage, and Redis (via Upstash) for caching. Deployed live on Render.
@@ -54,17 +54,19 @@ E-commerce backend service built with Spring Boot, covering core commerce domain
 **[API Test Automation Suite](https://github.com/yourusername/api-test-automation)**
 REST Assured + Java test suites covering full CRUD scenarios (success and error paths) against public APIs, built with a reusable `BaseTest` and singleton `TokenManager` pattern.
 
+-->
+
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sipandscript&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sipandscript&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipandscript&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
