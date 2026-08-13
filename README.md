@@ -54,11 +54,10 @@ E-commerce backend service built with Spring Boot, covering core commerce domain
 **[API Test Automation Suite](https://github.com/yourusername/api-test-automation)**
 REST Assured + Java test suites covering full CRUD scenarios (success and error paths) against public APIs, built with a reusable `BaseTest` and singleton `TokenManager` pattern.
 
+---
 -->
 
----
-
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sipandscript&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
@@ -68,8 +67,8 @@ REST Assured + Java test suites covering full CRUD scenarios (success and error 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sipandscript&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
 </p>
-
 ---
+-->
 
 ### 📫 Connect With Me
 
