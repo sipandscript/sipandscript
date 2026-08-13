@@ -12,8 +12,6 @@
 - 🔭 Currently building backend services with **Java 21**, **Spring Boot 3**, **PostgreSQL**, and **Redis**
 - 🌱 Learning **JavaScript / React** to round out full-stack skills
 - 🎯 Actively transitioning into backend SDE roles
-- 💬 Ask me about Spring Boot, API testing, or test automation frameworks
-
 ---
 
 ### 🛠️ Tech Stack
@@ -29,6 +27,7 @@
 
 **Databases & Caching**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Testing & Automation**
